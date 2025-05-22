@@ -1,0 +1,2 @@
+1. ALTER TABLE
+2. ADD

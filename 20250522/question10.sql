@@ -1,0 +1,1 @@
+GRANT SELECT ON 강좌 TO 홍길동;

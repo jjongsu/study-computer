@@ -1,0 +1,1 @@
+REVOKE INSERT ON 교수 FROM 박문수;

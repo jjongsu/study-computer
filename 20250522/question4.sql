@@ -1,0 +1,2 @@
+SELECT DISTINCT 이름 FROM 자격증
+WHERE 경력 >= 3;

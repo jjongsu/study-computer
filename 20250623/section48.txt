@@ -1,0 +1,4 @@
+1. MAC, RBAC, DAC
+2. MAC 
+3. DAC
+4. 암호화, 복호화

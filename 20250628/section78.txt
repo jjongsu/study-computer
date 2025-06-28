@@ -1,0 +1,3 @@
+1. 동기, 비동기
+2. Socket
+3. Web service

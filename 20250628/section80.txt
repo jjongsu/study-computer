@@ -1,0 +1,4 @@
+1. EAI
+2. Point to Point, hub-spoke, Message bus
+3. ESB
+4. WSDL

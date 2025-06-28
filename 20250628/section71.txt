@@ -1,0 +1,4 @@
+1. 행위
+2. 브리지, 옵저버
+3. singleton, visitor, proxy, abstract factory
+4. 행위

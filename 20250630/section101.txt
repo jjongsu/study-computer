@@ -1,0 +1,2 @@
+1. Static Analysis, Dynamic Analysis
+2. 외계인 코드

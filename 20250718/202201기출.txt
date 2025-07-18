@@ -1,0 +1,79 @@
+1.
+2000
+
+2. 틀림
+0
+
+3.
+REDO
+UNDO
+
+4.
+ORDER
+score
+DESC
+
+5.
+Car
+
+6. 틀림
+테이블에서 튜플을 삭제할 때 의도와는 상관없는 값들도 함께 삭제되는 현상
+
+7.
+a = 20 b = 2
+
+8. 
+extend()
+pop()
+reverse()
+
+9.
+TKIP
+
+10.
+Static Analysis
+Dynamic Analysis
+
+11.
+JUnit
+
+12.
+120
+fun5 = fun4 * 5 = 120
+fun4 = fun3 * 4 = 24
+fun3 = fun2 * 3 = 6
+fun2 = fun1 * 2 = 2
+fun1 = 1
+
+13.
+NUI
+
+14. 틀림
+ㄷ, ㄹ, ㅁ
+
+15.
+>
+%
+/
+
+16.
+ISMS
+
+17.
+29
+
+18.
+유일성
+최소성
+
+19.
+Watering Hole
+
+20.
+단위 테스트
+통합 테스트
+시스템 테스트
+인수 테스트
+
+1차 점수
+40점
